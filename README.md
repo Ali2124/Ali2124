@@ -1,5 +1,8 @@
-### Hi there 👋
+Currently a 2nd year student at the university.
 
+I’m currently learning Java and Python
+
+How to reach me https://t.me/Alikhann0_0
 <!--
 **Ali2124/Ali2124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
